@@ -9,4 +9,4 @@ LGTM-konkuk는 건국대학교 팀에서 진행 중인 코드 리뷰 플랫폼 �
 
 
 ## API 명세서
-API 명세서는 [API Documentation](docs/api/api-spec.md)에서 확인할 수 있습니다.
+API 명세서는 [API Documentation](api/api-spec.md)에서 확인할 수 있습니다.
